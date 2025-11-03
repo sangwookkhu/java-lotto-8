@@ -13,9 +13,9 @@
 - [x] 보너스 번호 포함 여부를 확인
 
 #### LottoGenerator (로또 생성기)
-- [ ] 구매 금액을 입력받아 로또 개수를 계산
-- [ ] 계산된 개수만큼 로또를 자동 생성
-- [ ] `Randoms.pickUniqueNumbersInRange()`를 사용하여 랜덤 번호를 생성
+- [x] 구매 금액을 입력받아 로또 개수를 계산
+- [x] 계산된 개수만큼 로또를 자동 생성
+- [x] `Randoms.pickUniqueNumbersInRange()`를 사용하여 랜덤 번호를 생성
 
 #### WinningNumbers (당첨 번호)
 - [x] 당첨 번호 6개를 저장
